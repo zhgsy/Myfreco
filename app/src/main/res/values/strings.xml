@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Myfreco</string>
+    <string name="app_radio">圆角</string>
+    <string name="app_xing">圆形</string>
+    <string name="app_bi">比例1:2</string>
+    <string name="app_jian">渐进式</string>
+    <string name="app_cipan">磁盘</string>
+    <string name="app_jia">加载动图</string>
+    <string name="app_ting">加载监听</string>
+    <string name="app_okhttp">配置OKHTTP</string>
+</resources>
